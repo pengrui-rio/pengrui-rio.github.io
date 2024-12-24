@@ -10,7 +10,7 @@ nav:
 ## 12.2024:
 Our first PhD student at HKU, Rui Peng, has successfully defended his PhD thesis!
 
-{% include section.html %}
+<!-- {% include section.html %} -->
 
 {% capture col1 %}
 {%
@@ -42,7 +42,7 @@ Our first PhD student at HKU, Rui Peng, has successfully defended his PhD thesis
 ## 9.2024:
 We are honored to have Prof. Toshio Fukuda visiting our lab.
 
-{% include section.html %}
+<!-- {% include section.html %} -->
 
 {% capture col1 %}
 {%
