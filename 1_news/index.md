@@ -14,13 +14,13 @@ Our first PhD student at HKU, Rui Peng, has successfully defended his PhD thesis
 
 {% capture col1 %} -->
 
-<!-- {%
-  include figure.html -->
+{%
+  include figure.html
   image="images/photo.jpg"
-  <!-- caption="Google map"
+  caption="Google map"
 %}
 
-{% endcapture %}
+<!-- {% endcapture %}
 
 {% capture col2 %}
 
