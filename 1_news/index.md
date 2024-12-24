@@ -56,7 +56,9 @@ More details will follow:
 
 Navigating in a highly dynamic and cluttered environment is a very complex task for UAVs. We propose FAPP, a fast and adaptive perception and planning framework for drones.
 Check our latest IEEE Transactions on Robotics paper for more details:
+
 Paper: FAPP: Fast and Adaptive Perception and Planning for UAVs in Dynamic Cluttered Environments.
+
 Video: [FAPP](https://www.youtube.com/watch?v=-0l-_cR8NkQ).
 
 {% capture col1 %}
