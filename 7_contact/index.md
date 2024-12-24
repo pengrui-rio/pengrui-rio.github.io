@@ -12,9 +12,7 @@ Dr. Peng LU
 
 Adaptive Robotic Controls Lab (ArcLab)
 
-LG02
-
-Haking Wong Building
+LG02, Haking Wong Building
 
 University of Hong Kong (HKU)
 
@@ -47,7 +45,7 @@ ArcLab is located near Exit A2 of HKU station which is easily accessible.
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Lorem ipsum"
+  caption="Google map"
 %}
 
 {% endcapture %}
@@ -57,12 +55,12 @@ ArcLab is located near Exit A2 of HKU station which is easily accessible.
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Lorem ipsum"
+  caption="Baidu map"
 %}
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
+<!-- {% include cols.html col1=col1 col2=col2 %}
 
 {% include section.html dark=true %}
 
@@ -84,4 +82,4 @@ consectetur adipiscing elit
 sed do eiusmod tempor
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+{% include cols.html col1=col1 col2=col2 col3=col3 %} -->

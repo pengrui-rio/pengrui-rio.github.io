@@ -7,16 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}News
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+## PhD/Postdoc Positions:
+We are always looking for highly self-motivated candidates who are interested in developing intelligent vision and control techniques to enhance the intelligence and autonomy of robots including UAVs. We are interested in topics that are essential to enhancing the intelligence of robots, which include but are not limited to:
 
-{% include section.html %}
-
-{% include search-box.html %}
-
-{% include tags.html tags=site.tags %}
-
-{% include search-info.html %}
-
-{% include list.html data="posts" component="post-excerpt" %}
-  
