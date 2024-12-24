@@ -67,3 +67,40 @@
   date: '2023-12-5'
   link: https://ieeexplore.ieee.org/document/10342726
   image: images/icon.png
+
+- id: https://ieeexplore.ieee.org/document/10305254
+  title: FT-Net Learning Failure Recovery and Fault-Tolerant Locomotion for Quadruped Robots
+  authors:
+  - Zeren Luo
+  - Erdong Xiao
+  - Peng Lu
+  publisher: IEEE Robotics and Automation Letters
+  date: '2023-11-2'
+  link: https://www.youtube.com/watch?v=ZSfbIHy495Y
+  image: images/icon.png
+
+- id: https://ieeexplore.ieee.org/document/10287884
+  title: PL-EVIO Robust Monocular Event-Based Visual Inertial Odometry With Point and Line Features
+  authors:
+  - Weipeng Guan
+  - Peiyu Chen
+  - Yuhan Xie
+  - Peng Lu
+  publisher: IEEE Transactions on Automation Science and Engineering
+  date: '2023-10-19'
+  link: https://www.youtube.com/watch?v=KnWZ4anBMK4
+  image: images/icon.png
+
+- id: https://ieeexplore.ieee.org/document/10287884
+  title: PL-EVIO Robust Monocular Event-Based Visual Inertial Odometry With Point and Line Features
+  authors:
+  - Weipeng Guan
+  - Peiyu Chen
+  - Yuhan Xie
+  - Peng Lu
+  publisher: IEEE Transactions on Automation Science and Engineering
+  date: '2023-10-19'
+  link: https://www.youtube.com/watch?v=KnWZ4anBMK4
+  image: images/icon.png
+
+
