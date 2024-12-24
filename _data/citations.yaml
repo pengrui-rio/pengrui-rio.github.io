@@ -3,11 +3,17 @@
 - id: https://doi.org/10.1002/aisy.202400243
   title: "EVI-SAM: Robust, Real-time, Tightly-coupled Event-Visual-Inertial State Estimation and 3D Dense Mapping"
   authors:
-  - Tim E Putman
-  - Kevin Schaper
+  - Weipeng Guan
+  - Peiyu Chen
+  - Huibin Zhao
+  - Yu Wang
+  - Peng Lu
   publisher: Advanced Intelligent Systems
   date: '2024-1-24'
   link: https://www.youtube.com/watch?v=Nn40U4e5Si8
+  orcid: 0000-0002-4655-3773
+  plugin: orcid.py
+  file: orcid.yaml
   image: images/icon.png
 
 - id: doi:10.1101/2023.10.11.560955
