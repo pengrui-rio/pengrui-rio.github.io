@@ -12,7 +12,8 @@ Our research focuses on various control techniques which can enhance the autonom
 
 {% capture text %}
 
-Our Research focuses on aerial robotics.
+Our Research focuses on adaptive, robust, agile control and planning techniques in advanced robots, swarm robots.
+Also, event-based, Lidar-based slam systems and deep learning belong to our research scope.
 
 {%
   include button.html
@@ -35,7 +36,7 @@ Our Research focuses on aerial robotics.
 
 {% capture text %}
 
-Our robots.
+We have AGVs, UAVs, manipulators, legged robots.
 
 {%
   include button.html
@@ -60,7 +61,7 @@ Our robots.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our team have PhD, Mphil, Msc students.
 
 {%
   include button.html
