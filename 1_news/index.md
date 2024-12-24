@@ -11,7 +11,7 @@ nav:
 Our first PhD student at HKU, Rui Peng, has successfully defended his PhD thesis!
 
  
-{% capture col1 %}
+<!-- {% capture col1 %} -->
 
 {%
   include figure.html
@@ -19,9 +19,9 @@ Our first PhD student at HKU, Rui Peng, has successfully defended his PhD thesis
   caption="Google map"
 %}
 
-{% endcapture %}
+<!-- {% endcapture %} -->
 
-{% capture col2 %}
+<!-- {% capture col2 %} -->
 
 {%
   include figure.html
@@ -29,9 +29,9 @@ Our first PhD student at HKU, Rui Peng, has successfully defended his PhD thesis
   caption="Baidu map"
 %}
 
-{% endcapture %}
+<!-- {% endcapture %} -->
 
-{% capture col3 %}
+<!-- {% capture col3 %} -->
 
 {%
   include figure.html
@@ -39,6 +39,6 @@ Our first PhD student at HKU, Rui Peng, has successfully defended his PhD thesis
   caption="Baidu map"
 %}
 
-{% endcapture %}
+<!-- {% endcapture %} -->
 
  
