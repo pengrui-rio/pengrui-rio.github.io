@@ -5,23 +5,21 @@ nav:
   tooltip: Publications
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Publications
+# {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-{% include tags.html tags="publication, resource, website" %}
+<!-- {% include section.html %}
 
-{% include search-info.html %}
+## Highlighted
 
-{% include section.html %}
-
-## Featured
-
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
 
 {% include section.html %}
 
-## More
+## All
 
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include search-box.html %}
+
+{% include search-info.html %} -->
+
+{% include list.html data="citations" component="citation" style="rich" %}
