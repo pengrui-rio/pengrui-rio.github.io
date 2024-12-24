@@ -1,9 +1,11 @@
 ---
 ---
 
-# pengrui-rio's Website
+# Adaptive Robotic Controls Lab (ArcLab)'s Website
 
-Finally I build this fucking website
+ArcLab is located at the Mechanical Engineering (ME) at the University of Hong Kong (HKU).
+
+Our research focuses on various control techniques which can enhance the autonomy of robotics.
 
 {% include section.html %}
 
