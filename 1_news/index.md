@@ -14,7 +14,7 @@ Our first PhD student at HKU, Rui Peng, has successfully defended his PhD thesis
 {%
   include figure.html
   image="images/2024-12/pengrui_single.png"
-  caption="pengrui_single"
+  caption="Dr. Rui Peng!"
 %}
 {% endcapture %}
 
@@ -22,7 +22,7 @@ Our first PhD student at HKU, Rui Peng, has successfully defended his PhD thesis
 {%
   include figure.html
   image="images/2024-12/pengrui_supervisor.png"
-  caption="pengrui_supervisor"
+  caption="Dr.Rui Peng and Prof. Peng Lu"
 %}
 {% endcapture %}
 
@@ -30,7 +30,7 @@ Our first PhD student at HKU, Rui Peng, has successfully defended his PhD thesis
 {%
   include figure.html
   image="images/2024-12/pengrui_teammates.png"
-  caption="pengrui_teammates"
+  caption="Arclab teammates"
 %}
 {% endcapture %}
 
@@ -44,7 +44,6 @@ We are honored to have Prof. Toshio Fukuda visiting our lab.
 {%
   include figure.html
   image="images/2024-9/fukuda.jpg"
-  caption="pengrui_single"
 %}
 {% endcapture %}
 
@@ -52,7 +51,6 @@ We are honored to have Prof. Toshio Fukuda visiting our lab.
 {%
   include figure.html
   image="images/2024-9/fukuda2.jpg"
-  caption="pengrui_supervisor"
 %}
 {% endcapture %}
 
