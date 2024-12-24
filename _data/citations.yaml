@@ -235,39 +235,39 @@
   link: https://www.youtube.com/watch?v=VfmFdpIEhFM
   image: images/icon.png
 
-- id: https://www.sciencedirect.com/science/article/pii/S2773186322000032?via%3Dihub
-  title: Event-triggered integral sliding mode formation control for multiple quadrotor UAVs with unknown disturbances
-  authors:
-  - Zhiwei Hou
-  - Peng Lu
-  publisher: Franklin Open
-  date: '2022-6-20'
-  link: https://www.sciencedirect.com/science/article/pii/S2773186322000032?via%3Dihub
-  image: images/icon.png
+# - id: https://www.sciencedirect.com/science/article/pii/S2773186322000032?via%3Dihub
+#   title: Event-triggered integral sliding mode formation control for multiple quadrotor UAVs with unknown disturbances
+#   authors:
+#   - Zhiwei Hou
+#   - Peng Lu
+#   publisher: Franklin Open
+#   date: '2022-6-20'
+#   link: https://www.sciencedirect.com/science/article/pii/S2773186322000032?via%3Dihub
+#   image: images/icon.png
 
-- id: https://www.sciencedirect.com/science/article/pii/S2773186322000044?via%3Dihub
-  title: Comparative study of state and unknown input estimation for continuous–discrete​ stochastic systems
-  authors:
-  - Peng Lu
-  publisher: Franklin Open
-  date: '2022-6-20'
-  link: https://github.com/lplp8899/unknown-input-Kalman-filter-continuous-discrete
-  image: images/icon.png
+# - id: https://www.sciencedirect.com/science/article/pii/S2773186322000044?via%3Dihub
+#   title: Comparative study of state and unknown input estimation for continuous–discrete​ stochastic systems
+#   authors:
+#   - Peng Lu
+#   publisher: Franklin Open
+#   date: '2022-6-20'
+#   link: https://github.com/lplp8899/unknown-input-Kalman-filter-continuous-discrete
+#   image: images/icon.png
 
 ## 2021
 
-- id: https://www.sciencedirect.com/science/article/abs/pii/S0016003221006566
-  title: Centralized fusion estimation over wireless sensor-actuator networks with unobservable packet dropouts
-  authors:
-  - Hong Lin
-  - Shan Lu
-  - Peng Lu
-  - Haoyi Que
-  - Pei Sun
-  publisher: Journal of the Franklin Institute
-  date: '2021-11-17'
-  link: https://www.sciencedirect.com/science/article/abs/pii/S0016003221006566
-  image: images/icon.png
+# - id: https://www.sciencedirect.com/science/article/abs/pii/S0016003221006566
+#   title: Centralized fusion estimation over wireless sensor-actuator networks with unobservable packet dropouts
+#   authors:
+#   - Hong Lin
+#   - Shan Lu
+#   - Peng Lu
+#   - Haoyi Que
+#   - Pei Sun
+#   publisher: Journal of the Franklin Institute
+#   date: '2021-11-17'
+#   link: https://www.sciencedirect.com/science/article/abs/pii/S0016003221006566
+#   image: images/icon.png
 
 - id: https://ieeexplore.ieee.org/document/9530254
   title: Flying Through a Narrow Gap Using End-to-End Deep Reinforcement Learning Augmented With Curriculum Learning and Sim2Real
@@ -286,7 +286,7 @@
   - Rui Peng
   - Xianda Chen
   - Peng Lu
-  publisher: 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  publisher: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
   date: '2021-10-1'
   link: https://www.youtube.com/watch?v=a056onq0OPM
   image: images/icon.png
@@ -304,3 +304,17 @@
   date: '2020-10-2'
   link: https://github.com/lplp8899/ADS_FDD_Turbulence
   image: images/icon.png
+
+- id: https://ieeexplore.ieee.org/document/9197252
+  title: Training-set distillation for real-time uav object tracking, 2020 IEEE International Conference on Robotics and Automation
+  authors:
+  - Fan Li
+  - Changhong Fu
+  - Fuling Lin
+  - Yiming Li
+  - Peng Lu
+  publisher: IEEE International Conference on Robotics and Automation (ICRA)
+  date: '2020-5-1'
+  link: https://ieeexplore.ieee.org/document/9197252
+  image: images/icon.png
+
