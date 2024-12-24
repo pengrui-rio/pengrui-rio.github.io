@@ -15,8 +15,8 @@ Our first PhD student at HKU, Rui Peng, has successfully defended his PhD thesis
 
 {%
   include figure.html
-  image="images/2024.12/pengrui_single.png"
-  caption="Google map"
+  image="images/pengrui_single.png"
+  caption="pengrui_single"
 %}
 
 <!-- {% endcapture %} -->
@@ -25,8 +25,8 @@ Our first PhD student at HKU, Rui Peng, has successfully defended his PhD thesis
 
 {%
   include figure.html
-  image="images/2024.12/pengrui_supervisor.png"
-  caption="Baidu map"
+  image="images/pengrui_supervisor.png"
+  caption="pengrui_supervisor"
 %}
 
 <!-- {% endcapture %} -->
@@ -35,8 +35,8 @@ Our first PhD student at HKU, Rui Peng, has successfully defended his PhD thesis
 
 {%
   include figure.html
-  image="images/2024.12/pengrui_teammates.png"
-  caption="Baidu map"
+  image="images/pengrui_teammates.png"
+  caption="pengrui_teammates"
 %}
 
 <!-- {% endcapture %} -->
