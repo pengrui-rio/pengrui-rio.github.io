@@ -64,7 +64,7 @@ Video: [FAPP](https://www.youtube.com/watch?v=-0l-_cR8NkQ).
 {% capture col1 %}
 {%
   include figure.html
-  image="images/FAPP.png"
+  image="images/FAPP_fig.png"
 %}
 {% endcapture %}
 
