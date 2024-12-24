@@ -42,7 +42,7 @@ ArcLab is located near Exit A2 of HKU station which is easily accessible.
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/hku_google_map.png"
   caption="Google map"
 %}
 
@@ -52,7 +52,7 @@ ArcLab is located near Exit A2 of HKU station which is easily accessible.
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/hku_baidu_map.png"
   caption="Baidu map"
 %}
 
