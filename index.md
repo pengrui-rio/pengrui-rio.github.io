@@ -3,7 +3,7 @@
 
 # pengrui-rio's Website
 
-An engaging 1-3 sentence description of your lab.
+Finally I build this fucking website
 
 {% include section.html %}
 
