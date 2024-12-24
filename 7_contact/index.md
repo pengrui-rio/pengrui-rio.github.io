@@ -7,27 +7,37 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Dr. Peng LU
+
+
+Adaptive Robotic Controls Lab (ArcLab)
+
+LG02
+
+Haking Wong Building
+
+University of Hong Kong (HKU)
+
+
+ArcLab is located near Exit A2 of HKU station which is easily accessible.
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="lupeng@hku.hk"
+  link="lupeng@hku.hk"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="+852-3910 2548"
+  link="+852-3910 2548"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://www.google.com/maps/place/HKU+Station/@22.283061,114.134265,16z/data=!4m6!3m5!1s0x3403ff84558ca189:0x7dea16aa57d61c84!8m2!3d22.283984!4d114.135042!16zL20vMDZxZDRk?hl=en&entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D"
 %}
 
 {% include section.html %}
