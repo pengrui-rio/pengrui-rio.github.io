@@ -203,7 +203,7 @@
   image: images/icon.png
 
 - id: https://www.youtube.com/watch?v=RDgxKQW--kM
-  title: Terminal Sliding Mode Control forQuadrotors withChattering Reduction and Disturbances Estimator Theory and Application
+  title: Terminal Sliding Mode Control forQuadrotors with Chattering Reduction and Disturbances Estimator Theory and Application
   authors:
   - Zhiwei Hou
   - Xiang Yu
