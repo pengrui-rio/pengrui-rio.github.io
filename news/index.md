@@ -1,8 +1,8 @@
 ---
-title: Open positions
+title: News
 nav:
-  order: 6
-  tooltip: Looking for self-motivatives
+  order: 1
+  tooltip: Lab news
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
