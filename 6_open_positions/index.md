@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Open positions
 
 ## PhD/Postdoc Positions:
-We are always looking for highly-motivated candidates who are interested in developing intelligent vision and control techniques to enhance the intelligence and autonomy of robots including UAVs. We are interested in topics that are essential to enhancing the intelligence of robots, which include but are not limited to:
+We are always looking for highly self-motivated candidates who are interested in developing intelligent vision and control techniques to enhance the intelligence and autonomy of robots including UAVs. We are interested in topics that are essential to enhancing the intelligence of robots, which include but are not limited to:
 
 #### Deep Learning and Deep Reinforcement Learning-based Navigation for robots and UAVs
 - Deep learning-based scene understanding, object detection and tracking, Large Language Models (LLM)
@@ -26,16 +26,13 @@ We are always looking for highly-motivated candidates who are interested in deve
 - Event-based, vision-based or lidar-based visual odometry
 - Event-based, vision-based or lidar-based mapping
 
-
 #### Soft and continuum robots
 - Dynamic control and grasping of soft/continuum arms
 
 
 # Requirements:
 
-The candidate is expected to have a Master's Degree for applying for a PhD or Doctor's Degree for applying for a postdoc position. He/she should have a relevant research background (Learning, UAV, robotics) and programming skills with C/C++, python and ROS. Experience with drone/robotics development skills such as ROS/Gazebo, OpenCV, and PX4/Issac Gym is a plus. 
-
-
+The candidate is strongly expected to have a Master's Degree for applying for a PhD or Doctor's Degree for applying for a postdoc position. He/she should have a relevant research background (Learning, UAV, Manipulation, robotics) and programming skills with C/C++, python and ROS. Experience with drone/robotics development skills such as ROS/Gazebo, OpenCV, and PX4/Issac Gym is a plus. 
 
 # How to apply:
 
