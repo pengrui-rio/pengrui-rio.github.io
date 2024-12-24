@@ -10,10 +10,10 @@ proofer: false
 links:
   email: lupeng@hku.hk
   orcid: 0000-0001-5611-4902
-  google-scholar: https://scholar.google.ca/citations?user=ts7ItWgAAAAJ&hl=en
-  github: https://github.com/arclab-hku
+  google-scholar: ts7ItWgAAAAJ&hl=en
+  github: arclab-hku
   twitter: https://space.bilibili.com/1778365431/video
-  youtube: https://www.youtube.com/channel/UCUSh4UqeJ9XxUXJQuni6LJA/videos
+  youtube: @arclab7795
 
 ### jekyll settings
 
