@@ -25,7 +25,7 @@
   link: https://www.youtube.com/watch?v=0yFJ-mrWTvc
   image: images/icon.png
 
-- id: https://ieeexplore.ieee.org/abstract/document/10463132
+- id: https://ieeexplore.ieee.org/document/10463132
   title: MorAL Learning Morphologically Adaptive Locomotion Controller for Quadrupedal Robots on Challenging Terrains
   authors:
   - Zeren Luo
@@ -49,4 +49,21 @@
   publisher: IEEE Robotics and Automation Letters
   date: '2024-2-8'
   link: https://www.youtube.com/watch?v=NySiQxn35k4
+  image: images/icon.png
+
+## 2023
+
+- id: https://ieeexplore.ieee.org/document/10342726
+  title: ECMD An Event-Centric Multisensory Driving Dataset for SLAM
+  authors:
+  - Peiyu Chen
+  - Weipeng Guan
+  - Feng Huang
+  - Yihan Zhong
+  - Weisong Wen
+  - Li-Ta Hsu
+  - Peng Lu
+  publisher: IEEE Robotics and Automation Letters
+  date: '2023-12-5'
+  link: https://ieeexplore.ieee.org/document/10342726
   image: images/icon.png
