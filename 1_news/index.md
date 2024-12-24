@@ -43,7 +43,7 @@ We are honored to have Prof. Toshio Fukuda visiting our lab.
 {% capture col1 %}
 {%
   include figure.html
-  image="images/2024-9/fukuda.jpg"
+  image="images/2024-9/fukuda1.jpg"
 %}
 {% endcapture %}
 
