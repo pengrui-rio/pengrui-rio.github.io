@@ -306,8 +306,7 @@
   image: images/icon.png
 
 - id: https://ieeexplore.ieee.org/document/9197252
-  title: Training-set distillation for real-time uav object tracking, 2020 IEEE International Conference on Robotics and Automation
-  authors:
+  title: Training-set distillation for real-time uav object tracking
   - Fan Li
   - Changhong Fu
   - Fuling Lin
@@ -318,3 +317,52 @@
   link: https://ieeexplore.ieee.org/document/9197252
   image: images/icon.png
 
+- id: https://ieeexplore.ieee.org/document/9340778
+  title: Computationally Efficient Obstacle Avoidance Trajectory Planner for UAVs Based on Heuristic Angular Search Method
+  authors:
+  - Han Chen
+  - Peng Lu
+  publisher: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  date: '2020-10-1'
+  link: https://ieeexplore.ieee.org/document/9340778
+  image: images/icon.png
+
+## 2019
+
+- id: https://ieeexplore.ieee.org/document/8970476
+  title: Adaptive Unscented Kalman Filter-based Disturbance Rejection With Application to High Precision Hydraulic Robotic Control
+  authors:
+  - Peng Lu
+  - Timothy Sandy
+  - Jonas Buchli
+  publisher: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  date: '2019-10-2'
+  link: https://ieeexplore.ieee.org/document/8970476
+  image: images/icon.png
+
+- id: https://ieeexplore.ieee.org/document/9009064
+  title: Learning Aberrance Repressed Correlation Filters for Real-Time UAV Tracking
+  authors:
+  - Ziyuan Huang
+  - Changhong Fu
+  - Yiming Li
+  - Fuling Lin
+  - Peng Lu
+  publisher: IEEE/CVF International Conference on Computer Vision (ICCV)
+  date: '2019-10-27'
+  link: https://ieeexplore.ieee.org/document/9009064
+  image: images/icon.png
+
+## 2018
+
+- id: https://ieeexplore.ieee.org/abstract/document/8593739
+  title: PAMPC Perception-Aware Model Predictive Control for Quadrotors
+  authors:
+  - Davide Falanga
+  - Philipp Foehn
+  - Peng Lu
+  - Davide Scaramuzza
+  publisher: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  date: '2018-10-2'
+  link: https://ieeexplore.ieee.org/abstract/document/8593739
+  image: images/icon.png
