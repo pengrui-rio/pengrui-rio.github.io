@@ -16,7 +16,7 @@ Our Research focuses on aerial robotics.
 
 {%
   include button.html
-  link="2_publications"
+  link="publications"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -28,7 +28,7 @@ Our Research focuses on aerial robotics.
 {%
   include feature.html
   image="images/photo.jpg"
-  link="3_research"
+  link="research"
   title="Our Research"
   text=text
 %}
@@ -39,7 +39,7 @@ Our robots.
 
 {%
   include button.html
-  link="4_robots"
+  link="robots"
   text="Browse our robot platforms"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -51,7 +51,7 @@ Our robots.
 {%
   include feature.html
   image="images/photo.jpg"
-  link="4_robots"
+  link="robots"
   title="Our Robots"
   flip=true
   style="bare"
@@ -64,7 +64,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include button.html
-  link="5_team"
+  link="team"
   text="Meet our team"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -76,7 +76,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="5_team"
+  link="team"
   title="Our Team"
   text=text
 %}
