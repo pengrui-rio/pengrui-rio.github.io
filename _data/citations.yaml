@@ -182,7 +182,20 @@
   - Rui Peng
   - Zehao Wang
   - Peng Lu
-  publisher: IEEE Transactions on Systems, Man, and Cybernetics: Systems
-  date: '2023-4-25'
-  link: https://www.youtube.com/watch?v=XqAm1q0alNY
+  publisher: IEEE Transactions on Systems, Man, and Cybernetics Systems
+  date: '2023-3-27'
+  link: https://www.youtube.com/watch?v=6yFvrTu7Gqw
+  image: images/icon.png
+
+## 2022
+
+- id: https://ieeexplore.ieee.org/document/9881875
+  title: Perception and Avoidance of Multiple Small Fast Moving Objects for Quadrotors With Only Low-Cost RGBD Camera
+  authors:
+  - Minghao Lu
+  - Han Chen
+  - Peng Lu
+  publisher: IEEE Robotics and Automation Letters
+  date: '2022-9-8'
+  link: https://www.youtube.com/watch?v=n1rlnFTOBGE
   image: images/icon.png
