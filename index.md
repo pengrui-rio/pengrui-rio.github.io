@@ -12,7 +12,7 @@ Our research focuses on various control techniques which can enhance the autonom
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our Research focuses on aerial robotics.
 
 {%
   include button.html
@@ -28,19 +28,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
+  link="publications"
   title="Our Research"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our robots.
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="robots"
+  text="Browse our robot platforms"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -52,7 +52,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Our Projects"
+  title="Our Robots"
   flip=true
   style="bare"
   text=text
