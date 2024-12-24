@@ -91,16 +91,98 @@
   link: https://www.youtube.com/watch?v=KnWZ4anBMK4
   image: images/icon.png
 
-- id: https://ieeexplore.ieee.org/document/10287884
-  title: PL-EVIO Robust Monocular Event-Based Visual Inertial Odometry With Point and Line Features
+- id: https://ieeexplore.ieee.org/document/10184073
+  title: Learning Agile Flights Through Narrow Gaps with Varying Angles Using Onboard Sensing
   authors:
-  - Weipeng Guan
-  - Peiyu Chen
   - Yuhan Xie
+  - Minghao Lu
+  - Rui Peng
   - Peng Lu
-  publisher: IEEE Transactions on Automation Science and Engineering
-  date: '2023-10-19'
-  link: https://www.youtube.com/watch?v=KnWZ4anBMK4
+  publisher: IEEE Robotics and Automation Letters
+  date: '2023-7-14'
+  link: https://www.youtube.com/watch?v=06F6YDsypPQ
   image: images/icon.png
 
+- id: https://ieeexplore.ieee.org/document/10179014
+  title: Flying in Dynamic Scenes With Multitarget Velocimetry and Perception-Enhanced Planning
+  authors:
+  - Han Chen
+  - Chih-Yung Wen
+  - Fei Gao
+  - Peng Lu
+  publisher: IEEE/ASME Transactions on Mechatronics
+  date: '2023-7-11'
+  link: https://ieeexplore.ieee.org/document/10179014
+  image: images/icon.png
 
+- id: https://ieeexplore.ieee.org/document/10138109
+  title: Filtering 2D-3D Outliers by Camera Adjustment for Visual Odometry
+  authors:
+  - Ran Duan
+  - Danda Pani Paudel
+  - Chih-Yung Wen
+  - Peng Lu
+  publisher: IEEE/ASME Transactions on Mechatronics
+  date: '2023-5-29'
+  link: https://ieeexplore.ieee.org/document/10138109
+  image: images/icon.png
+
+- id: https://ieeexplore.ieee.org/document/10111056
+  title: Scale-Aware Domain Adaptation for Robust UAV Tracking
+  authors:
+  - Changhong Fu
+  - Teng Li
+  - Junjie Ye
+  - Guangze Zheng
+  - Sihang Li
+  - Peng Lu
+  publisher: IEEE Robotics and Automation Letters
+  date: '2023-4-28'
+  link: https://ieeexplore.ieee.org/document/10111056
+  image: images/icon.png
+
+- id: https://www.sciencedirect.com/science/article/abs/pii/S0957415823001502?dgcid=author
+  title: Fast Planning Approach for 3D Short Trajectory with a Parallel Framework
+  authors:
+  - Han Chen
+  - Shengyang Chen
+  - Chih-Yung Wen
+  - Peng Lu
+  publisher: Mechatronics
+  date: '2023-4-28'
+  link: https://www.sciencedirect.com/science/article/abs/pii/S0957415823001502?dgcid=author
+  image: images/icon.png
+
+- id: https://link.springer.com/article/10.1007/s10846-023-01819-0
+  title: DRL-based Path Planner and its Application in Real Quadrotor with LIDAR
+  authors:
+  - Yongsheng Yang
+  - Zhiwei Hou
+  - Hongbo Chen
+  - Peng Lu
+  publisher: Journal of Intelligent & Robotic Systems
+  date: '2023-3-13'
+  link: https://link.springer.com/article/10.1007/s10846-023-01819-0
+  image: images/icon.png
+
+- id: https://ieeexplore.ieee.org/document/10107754
+  title: ESVIO Event-Based Stereo Visual Inertial Odometry
+  authors:
+  - Peiyu Chen
+  - Weipeng Guan
+  - Peng Lu
+  publisher: IEEE Robotics and Automation Letters
+  date: '2023-4-25'
+  link: https://www.youtube.com/watch?v=XqAm1q0alNY
+  image: images/icon.png
+
+- id: https://ieeexplore.ieee.org/document/10081306
+  title: AeCoM An Aerial Continuum Manipulator With IMU-Based Kinematic Modeling and Tendon-Slacking Prevention
+  authors:
+  - Rui Peng
+  - Zehao Wang
+  - Peng Lu
+  publisher: IEEE Transactions on Systems, Man, and Cybernetics: Systems
+  date: '2023-4-25'
+  link: https://www.youtube.com/watch?v=XqAm1q0alNY
+  image: images/icon.png
