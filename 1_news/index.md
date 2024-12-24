@@ -10,14 +10,14 @@ nav:
 ## 12.2024:
 Our first PhD student at HKU, Rui Peng, has successfully defended his PhD thesis!
 
-{% include section.html %}
+<!-- {% include section.html %}
 
-{% capture col1 %}
+{% capture col1 %} -->
 
-{%
-  include figure.html
+<!-- {%
+  include figure.html -->
   image="images/photo.jpg"
-  caption="Google map"
+  <!-- caption="Google map"
 %}
 
 {% endcapture %}
@@ -32,4 +32,4 @@ Our first PhD student at HKU, Rui Peng, has successfully defended his PhD thesis
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
+{% include cols.html col1=col1 col2=col2 %} -->
