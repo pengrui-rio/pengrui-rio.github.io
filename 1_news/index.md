@@ -12,12 +12,12 @@ We are always looking for highly self-motivated candidates who are interested in
 
 <!-- {% include section.html %} -->
 
-{% capture col1 %}
+{% capture %}
 
 {%
   include figure.html
   image="images/photo.jpg"
-  <!-- caption="Google map" -->
+  caption="Google map"
 %}
 
 {% endcapture %}
