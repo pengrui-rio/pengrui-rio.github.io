@@ -90,11 +90,11 @@ github:
   tooltip: GitHub
   link: https://github.com/$VALUE
 
-twitter:
+bilibili:
   icon: fa-brands fa-twitter
   text: Twitter
   tooltip: Twitter
-  link: https://twitter.com/$VALUE
+  link: https://space.bilibili.com/$VALUE
 
 facebook:
   icon: fa-brands fa-facebook
