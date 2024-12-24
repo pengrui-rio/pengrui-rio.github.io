@@ -8,12 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@Adaptive Robotic Controls Lab (ArcLab).com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: Adaptive Robotic Controls Lab (ArcLab)
-  twitter: Adaptive Robotic Controls Lab (ArcLab)
-  youtube: Adaptive Robotic Controls Lab (ArcLab)
+  email: lupeng@hku.hk
+  orcid: https://orcid.org/0000-0001-5611-4902
+  google-scholar: https://scholar.google.ca/citations?user=ts7ItWgAAAAJ&hl=en
+  github: https://github.com/arclab-hku
+  bilibili: https://space.bilibili.com/1778365431/video
+  youtube: https://www.youtube.com/channel/UCUSh4UqeJ9XxUXJQuni6LJA/videos
 
 ### jekyll settings
 
