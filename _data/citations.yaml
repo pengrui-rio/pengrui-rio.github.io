@@ -1,18 +1,15 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: https://doi.org/10.1002/aisy.202400243
+  title: "EVI-SAM: Robust, Real-time, Tightly-coupled Event-Visual-Inertial State Estimation and 3D Dense Mapping"
   authors:
   - Tim E Putman
   - Kevin Schaper
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  publisher: Advanced Intelligent Systems
+  date: '2024-1-24'
+  link: https://www.youtube.com/watch?v=Nn40U4e5Si8
   image: images/icon.png
+
 - id: doi:10.1101/2023.10.11.560955
   title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
   authors:
