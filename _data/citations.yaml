@@ -224,7 +224,7 @@
   image: images/icon.png
 
 - id: https://ieeexplore.ieee.org/document/9690581
-  title: Real-time identification and avoidance of simultaneous static and dynamic obstacles on point cloud for UAVs navigation
+  title: Stereo Orientation Prior for UAV Robust and Accurate Visual Odometry
   authors:
   - Ran Duan
   - Danda Pani Paudel
