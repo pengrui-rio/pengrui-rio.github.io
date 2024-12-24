@@ -10,7 +10,7 @@ nav:
 ## PhD/Postdoc Positions:
 We are always looking for highly self-motivated candidates who are interested in developing intelligent vision and control techniques to enhance the intelligence and autonomy of robots including UAVs. We are interested in topics that are essential to enhancing the intelligence of robots, which include but are not limited to:
 
-<!-- {% include section.html %} -->
+{% include section.html %}
 
 {% capture %}
 
