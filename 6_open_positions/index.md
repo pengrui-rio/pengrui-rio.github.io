@@ -7,24 +7,15 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Open positions
 
-# PhD/Postdoc Positions:
-
-We are always looking for highly-motivated candidates who are interested in developing intelligent vision and control techniques to enhance the intelligence and autonomy of robots including UAVs.
-
-- Topics: 
-
-We are interested in topics that are essential to enhancing the intelligence of robots, which include but are not limited to:
+## PhD/Postdoc Positions:
+We are always looking for highly-motivated candidates who are interested in developing intelligent vision and control techniques to enhance the intelligence and autonomy of robots including UAVs. We are interested in topics that are essential to enhancing the intelligence of robots, which include but are not limited to:
 
 ### Deep Learning and Deep Reinforcement Learning-based Navigation for robots and UAVs
-
 - Deep learning-based scene understanding, object detection and tracking, Large Language Models (LLM)
-
 - Deep reinforcement learning-based control and navigation.
 
 ### Vision-based navigation and control for Robotics
-
 - Vision-based motion planning and obstacle avoidance
-
 - Vision-based object detection and tracking
 
 ### Swarm robotics
