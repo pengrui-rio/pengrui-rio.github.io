@@ -235,3 +235,136 @@
   link: https://www.youtube.com/watch?v=VfmFdpIEhFM
   image: images/icon.png
 
+
+
+# - id: https://www.sciencedirect.com/science/article/pii/S2773186322000032?via%3Dihub
+#   title: Event-triggered integral sliding mode formation control for multiple quadrotor UAVs with unknown disturbances
+#   authors:
+#   - Zhiwei Hou
+#   - Peng Lu
+#   publisher: Franklin Open
+#   date: '2022-6-20'
+#   link: https://www.sciencedirect.com/science/article/pii/S2773186322000032?via%3Dihub
+#   image: images/icon.png
+
+# - id: https://www.sciencedirect.com/science/article/pii/S2773186322000044?via%3Dihub
+#   title: Comparative study of state and unknown input estimation for continuous–discrete​ stochastic systems
+#   authors:
+#   - Peng Lu
+#   publisher: Franklin Open
+#   date: '2022-6-20'
+#   link: https://github.com/lplp8899/unknown-input-Kalman-filter-continuous-discrete
+#   image: images/icon.png
+
+## 2021
+
+# - id: https://www.sciencedirect.com/science/article/abs/pii/S0016003221006566
+#   title: Centralized fusion estimation over wireless sensor-actuator networks with unobservable packet dropouts
+#   authors:
+#   - Hong Lin
+#   - Shan Lu
+#   - Peng Lu
+#   - Haoyi Que
+#   - Pei Sun
+#   publisher: Journal of the Franklin Institute
+#   date: '2021-11-17'
+#   link: https://www.sciencedirect.com/science/article/abs/pii/S0016003221006566
+#   image: images/icon.png
+
+- id: https://ieeexplore.ieee.org/document/9530254
+  title: Flying Through a Narrow Gap Using End-to-End Deep Reinforcement Learning Augmented With Curriculum Learning and Sim2Real
+  authors:
+  - Chenxi Xiao
+  - Peng Lu
+  - Qizhi He
+  publisher: IEEE Transactions on Neural Networks and Learning Systems
+  date: '2021-9-6'
+  link: https://www.youtube.com/watch?v=gfAfFnjN18A
+  image: images/icon.png
+
+- id: https://ieeexplore.ieee.org/document/9636765
+  title: A Motion decoupled Aerial Robotic Manipulator for Better Inspection
+  authors:
+  - Rui Peng
+  - Xianda Chen
+  - Peng Lu
+  publisher: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  date: '2021-10-1'
+  link: https://www.youtube.com/watch?v=a056onq0OPM
+  image: images/icon.png
+
+## 2020
+
+- id: https://ieeexplore.ieee.org/document/9211802
+  title: Angular acceleration estimation-based incremental nonlinear dynamic inversion for robust flight control
+  authors:
+  - Peng Lu
+  - Erik-Jan van Kampen
+  - Coen de Visser
+  - Qiping Chu
+  publisher: IEEE Transactions on Control Systems Technology
+  date: '2020-10-2'
+  link: https://github.com/lplp8899/ADS_FDD_Turbulence
+  image: images/icon.png
+
+- id: https://ieeexplore.ieee.org/document/9197252
+  title: Training-set distillation for real-time uav object tracking
+  - Fan Li
+  - Changhong Fu
+  - Fuling Lin
+  - Yiming Li
+  - Peng Lu
+  publisher: IEEE International Conference on Robotics and Automation (ICRA)
+  date: '2020-5-1'
+  link: https://ieeexplore.ieee.org/document/9197252
+  image: images/icon.png
+
+- id: https://ieeexplore.ieee.org/document/9340778
+  title: Computationally Efficient Obstacle Avoidance Trajectory Planner for UAVs Based on Heuristic Angular Search Method
+  authors:
+  - Han Chen
+  - Peng Lu
+  publisher: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  date: '2020-10-1'
+  link: https://ieeexplore.ieee.org/document/9340778
+  image: images/icon.png
+
+## 2019
+
+- id: https://ieeexplore.ieee.org/document/8970476
+  title: Adaptive Unscented Kalman Filter-based Disturbance Rejection With Application to High Precision Hydraulic Robotic Control
+  authors:
+  - Peng Lu
+  - Timothy Sandy
+  - Jonas Buchli
+  publisher: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  date: '2019-10-2'
+  link: https://ieeexplore.ieee.org/document/8970476
+  image: images/icon.png
+
+- id: https://ieeexplore.ieee.org/document/9009064
+  title: Learning Aberrance Repressed Correlation Filters for Real-Time UAV Tracking
+  authors:
+  - Ziyuan Huang
+  - Changhong Fu
+  - Yiming Li
+  - Fuling Lin
+  - Peng Lu
+  publisher: IEEE/CVF International Conference on Computer Vision (ICCV)
+  date: '2019-10-27'
+  link: https://ieeexplore.ieee.org/document/9009064
+  image: images/icon.png
+
+## 2018
+
+- id: https://ieeexplore.ieee.org/abstract/document/8593739
+  title: PAMPC Perception-Aware Model Predictive Control for Quadrotors
+  authors:
+  - Davide Falanga
+  - Philipp Foehn
+  - Peng Lu
+  - Davide Scaramuzza
+  publisher: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  date: '2018-10-2'
+  link: https://ieeexplore.ieee.org/abstract/document/8593739
+  image: images/icon.png
