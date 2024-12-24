@@ -269,7 +269,6 @@
   link: https://www.sciencedirect.com/science/article/abs/pii/S0016003221006566
   image: images/icon.png
 
-
 - id: https://ieeexplore.ieee.org/document/9530254
   title: Flying Through a Narrow Gap Using End-to-End Deep Reinforcement Learning Augmented With Curriculum Learning and Sim2Real
   authors:
@@ -279,4 +278,29 @@
   publisher: IEEE Transactions on Neural Networks and Learning Systems
   date: '2021-9-6'
   link: https://www.youtube.com/watch?v=gfAfFnjN18A
+  image: images/icon.png
+
+- id: https://ieeexplore.ieee.org/document/9636765
+  title: A Motion decoupled Aerial Robotic Manipulator for Better Inspection
+  authors:
+  - Rui Peng
+  - Xianda Chen
+  - Peng Lu
+  publisher: 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  date: '2021-10-1'
+  link: https://www.youtube.com/watch?v=a056onq0OPM
+  image: images/icon.png
+
+## 2020
+
+- id: https://ieeexplore.ieee.org/document/9211802
+  title: Angular acceleration estimation-based incremental nonlinear dynamic inversion for robust flight control
+  authors:
+  - Peng Lu
+  - Erik-Jan van Kampen
+  - Coen de Visser
+  - Qiping Chu
+  publisher: IEEE Transactions on Control Systems Technology
+  date: '2020-10-2'
+  link: https://github.com/lplp8899/ADS_FDD_Turbulence
   image: images/icon.png
